@@ -2,4 +2,4 @@
 
 This is my image:
 
-![This is my Image][myimage.jpg]
+![This is my Image](myimage.jpg)
